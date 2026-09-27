@@ -831,6 +831,7 @@ set (PCH_SOURCES
 	rendering/r_utility.cpp
 	rendering/r_sky.cpp
 	rendering/n3drenderer/n3d_renderer.cpp
+	rendering/n3drenderer/n3d_vectorspan.cpp
 	sound/s_advsound.cpp
 	sound/s_sndseq.cpp
 	sound/s_doomsound.cpp
